@@ -1,6 +1,3 @@
-# SCM-Analytics_1Day-Promise
-Diagnostic gap analysis of SLA calibration failure in a 180K-order supply chain network, built in Tableau. Traces a broken delivery promise to its mechanism and quantifies the cost.
-
 # The One Day Promise That Was Never One Day
 
 A diagnostic analysis of SLA calibration failure across 180,519 orders in a global supply chain network. First Class shipping promised 1-day delivery and never once met it, an estimated $26,955 in quietly lost profit traced back to a scheduling promise that was never rechecked against operational reality.
